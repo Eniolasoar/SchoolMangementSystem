@@ -1,0 +1,9 @@
+FirstName LastName Age Department UserName Password Matriculation-Number
+Eniola NATHAN 18 computer Eni admin@123 BHU/21/04/05/0022
+Eniola james 18 computer Eniola admin@123 BHU/21/04/05/0022
+Progress Okoro 18 computer EniAdmin done BHU/21/04/05/0001
+Motunrayo Anishe 18 English M.A.R.S mars 
+James Madi 17 computer Jami jami BHU/21/04/05/0001
+Jam Madie 19 computer kc kc BHU/21/04/05/0001
+grr ghyhy 33 computer jfjhj dfgd BHU/21/04/05/0001
+uiruiiu ghyhyr,,r 36 computer jfjhj ttt BHU/21/04/05/0002
